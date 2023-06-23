@@ -34,6 +34,7 @@ Design patterns provide the "how?", algorithms provide the "what?".
 [Provider](./Provider/) | Share data between components
 [Compound components](./Compound%20Pattern/) | Group components together
 [Flyweight](./Flyweight/) | Minimize memory usage by sharing data with other similar objects
+[Command](./Command/) | Encapsulate a request as an object
 
 ## 📚 Resources
 ---

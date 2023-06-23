@@ -1,0 +1,42 @@
+body{
+    background-color: gray;
+    color: white;
+}
+.App{
+    text-align: center;
+}
+button{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+button:disabled{
+    opacity: 50%;
+    background-color: black;
+    color: white;
+}
+
+input {
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    padding: 5px;
+    width: 50%;
+}
+td{
+    border: 1px solid black;
+    padding: 5px;
+}
+th{
+    border: 1px solid black;
+    padding: 5px;
+}
